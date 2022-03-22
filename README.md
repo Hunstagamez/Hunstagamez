@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hunstagamez
 - 👀 I’m interested in Python, JS, C#, and games!
-- 🌱 I’m currently learning JS, Japanese, and Blender
+- 🌱 I’m currently learning Git, Japanese, and Blender
 - 💞️ I’m looking to collaborate on anything I could help at.
 - 📫 How to reach me Hunstagamez#0007
 
