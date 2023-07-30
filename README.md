@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hunstagamez
-- 👀 I’m interested in Python, JS, C#, and games!
-- 🌱 I’m currently learning Git, Japanese, and Blender
-- 💞️ I’m looking to collaborate on anything I could help at.
-- 📫 How to reach me Hunstagamez#0007
+- 👋 Hi, I’m Hunter.
+- 👀 I’m interested in Python, AI, and Rendering.
+- 🌱 I’m currently learning Git, Python, and Blender
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me, Discord @hunted_
 
 <!---
 Hunstagamez/Hunstagamez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
